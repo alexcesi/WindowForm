@@ -1,0 +1,16 @@
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.cancel.resources
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.code.resources
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.Form1.resources
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.fuelChoice.resources
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.thanks.resources
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.Properties.Resources.resources
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.retirercarte.resources
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.ticket.resources
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.UserControl1.resources
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.csproj.GenerateResource.cache
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.csproj.CoreCompileInputs.cache
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.exe
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\obj\Debug\TPSTATIONSERVICE.pdb
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\bin\Debug\TPSTATIONSERVICE.exe.config
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\bin\Debug\TPSTATIONSERVICE.exe
+C:\Users\alexv\OneDrive\Bureau\TPSTATIONSERVICE\bin\Debug\TPSTATIONSERVICE.pdb
